@@ -1,5 +1,5 @@
 matplotlib==3.8.3
-opencv-python==4.10.0.82
+opencv-python
 streamlit==1.35.0
 numpy==1.26.4
 scikit-learn==1.4.1.post1
